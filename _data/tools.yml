@@ -1853,7 +1853,7 @@
   - opensource
   - analysis
 - name: Protobom
-  publisher: Bom-Squad WG (OpenSSF)
+  publisher: OpenSSF Security Tooling WG
   description: Protobom is a versatile Software Bill of Materials (SBOM) representation encoded in protocol buffers. 
     It provides a universal format for expressing SBOM, facilitating seamless interoperability and integration into various toolchains.
   websiteUrl: https://github.com/bom-squad/protobom
