@@ -1862,7 +1862,7 @@
   - transform
   - library
 - name: sbom-Convert
-  publisher: Bom-Squad WG (OpenSSF) 
+  publisher: OpenSSF Security Tooling WG
   description: sbom-convert is a command-line interface (CLI) tool designed to effortlessly convert between different SBOM formats. 
     Leveraging the universal SBOM representation provided by Protobom, this tool ensures smooth transitions between various SBOM specifications, enhancing compatibility and interoperability.
   websiteUrl: https://github.com/bom-squad/sbom-convert
