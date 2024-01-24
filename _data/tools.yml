@@ -1852,3 +1852,20 @@
   categories:
   - opensource
   - analysis
+- name: Protobom
+  publisher: OpenSSF Security Tooling WG
+  description: Protobom is a versatile Software Bill of Materials (SBOM) representation encoded in protocol buffers. 
+    It provides a universal format for expressing SBOM, facilitating seamless interoperability and integration into various toolchains.
+  websiteUrl: https://github.com/bom-squad/protobom
+  categories:
+  - opensource
+  - transform
+  - library
+- name: sbom-Convert
+  publisher: OpenSSF Security Tooling WG
+  description: sbom-convert is a command-line interface (CLI) tool designed to effortlessly convert between different SBOM formats. 
+    Leveraging the universal SBOM representation provided by Protobom, this tool ensures smooth transitions between various SBOM specifications, enhancing compatibility and interoperability.
+  websiteUrl: https://github.com/bom-squad/sbom-convert
+  categories:
+  - opensource
+  - transform
